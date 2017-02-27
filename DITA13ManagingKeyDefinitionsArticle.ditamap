@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/bookmap.dtd">
+<bookmap id="bookmap_specificationstatusupdate" xml:lang="en-US">
+  <booktitle>
+    <booklibrary>DITA 1.3 Feature Article</booklibrary>
+    <mainbooktitle>Managing key definitions</mainbooktitle>
+    <booktitlealt>An OASIS DITA Adoption Technical Committee Publication</booktitlealt>
+  </booktitle>
+  <bookmeta>
+    <bookrights>
+      <copyrfirst>
+        <year>2017</year>
+      </copyrfirst>
+      <bookowner>
+        <organization>On behalf of the DITA Adoption Technical Committee</organization>
+        <person>Keith Schengili-Roberts</person>
+        <person>Bob Thomas</person>
+      </bookowner>
+    </bookrights>
+  </bookmeta>
+  <frontmatter>
+    <notices>
+      <topicref href="oasis_legal.dita" navtitle="Legal Notice" type="concept" toc="no"/>
+    </notices>
+    <booklists>
+      <toc chunk="to-content"/>
+    </booklists>
+  </frontmatter>
+  <part>
+    <topicref href="ManagingKeyDefinitions.dita" type="concept"></topicref>
+  </part>
+</bookmap>

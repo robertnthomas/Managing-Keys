@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="oasis_legal">
+	<title/>
+	<conbody>
+		<p>OASIS (Organization for the Advancement of Structured Information Standards) is a
+			not-for-profit, international consortium that drives the development, convergence, and
+			adoption of e-business standards. Members themselves set the OASIS technical agenda,
+			using a lightweight, open process expressly designed to promote industry consensus and
+			unite disparate efforts. The consortium produces open standards for Web services,
+			security, e-business, and standardization efforts in the public sector and for
+			application-specific markets. OASIS was founded in 1993. More information can be found
+			on the OASIS website at http://www.oasis-open.org.</p>
+		<p>The OASIS DITA Adoption Technical Committee members collaborate to provide expertise and
+			resources to educate the marketplace on the value of the DITA OASIS standard. By raising
+			awareness of the benefits offered by DITA, the DITA Adoption Technical Committee expects
+			the demand for, and availability of, DITA conforming products and services to increase,
+			resulting in a greater choice of tools and platforms and an expanded DITA community of
+			users, suppliers, and consultants.</p>
+		<p>
+			<b> DISCLAIMER: All examples presented in this article were produced using one or more
+				tools chosen at the author's discretion and in no way reflect endorsement of the
+				tools by the OASIS DITA Adoption Technical Committee.</b>
+		</p>
+		<p></p>
+		<p>This white paper was produced and approved by the OASIS DITA Adoption Technical
+			Committee as a Committee Draft. It has not been reviewed and/or approved by the OASIS
+			membership at-large.</p>
+		<p>Copyright © 2014 OASIS. All rights reserved.</p>
+		<p>All capitalized terms in the following text have the meanings assigned to them in the
+			OASIS Intellectual Property Rights Policy (the "OASIS IPR Policy"). The full Policy may
+			be found at the OASIS website. This document and translations of it may be copied and
+			furnished to others, and derivative works that comment on or otherwise explain it or
+			assist in its implementation may be prepared, copied, published, and distributed, in
+			whole or in part, without restriction of any kind, provided that the above copyright
+			notice and this section are included on all such copies and derivative works. However,
+			this document itself may not be modified in any way, including by removing the copyright
+			notice or references to OASIS, except as needed for the purpose of developing any
+			document or deliverable produced by an OASIS Technical Committee (in which case the
+			rules applicable to copyrights, as set forth in the OASIS IPR Policy, must be followed)
+			or as required to translate it into languages other than English. The limited
+			permissions granted above are perpetual and will not be revoked by OASIS or its
+			successors or assigns. This document and the information contained herein is provided on
+			an "AS IS" basis and OASIS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT
+			NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY
+			OWNERSHIP RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+			PARTICULAR PURPOSE.</p>
+		<p>
+			<lines>
+
+	 </lines>
+		</p>
+		<section>
+			<title>Document History</title>
+			<table>
+				<tgroup cols="4">
+					<colspec colnum="1" colname="col1" colwidth="1*" colsep="1"/>
+					<colspec colnum="2" colname="col2" colwidth="1.42*" colsep="1"/>
+					<colspec colnum="3" colname="col3" colwidth="1.28*" colsep="1"/>
+					<colspec colnum="4" colname="col4" colwidth="3.33*" colsep="1"/>
+					<thead>
+						<row>
+							<entry colname="col1">Revision </entry>
+							<entry colname="col2">Date </entry>
+							<entry colname="col3">Author </entry>
+							<entry colname="col4">Summary </entry>
+						</row>
+					</thead>
+					<tbody>
+						<row>
+							<entry colname="col1">First Draft</entry>
+							<entry colname="col2">2 February 2014</entry>
+							<entry colname="col3">Thomas</entry>
+							<entry colname="col4">Initial draft</entry>
+						</row>
+						<!--<row>
+							<entry colname="col1">Second Draft</entry>
+							<entry colname="col2">30 May 2014</entry>
+							<entry colname="col3">Thomas</entry>
+							<entry colname="col4">Reworked to be a tutorial</entry>
+						</row>
+					  <row>
+					    <entry colname="col1">Third Draft</entry>
+					    <entry colname="col2">8 June 2014</entry>
+					    <entry colname="col3">Thomas</entry>
+					    <entry colname="col4">All comments incorporated</entry>
+					  </row>-->
+					  <row>
+					    <entry colname="col1">Last Draft</entry>
+					    <entry colname="col2">17 June 2014</entry>
+					    <entry colname="col3">Thomas</entry>
+					    <entry colname="col4">All comments incorporated</entry>
+					  </row>
+					  <row>
+					    <entry colname="col1">Final</entry>
+					    <entry colname="col2">TBD</entry>
+					    <entry colname="col3">Thomas</entry>
+					    <entry colname="col4">Approved</entry>
+					  </row>
+						<!--<row>
+			 		<entry colname="col1">Draft</entry>
+			 		<entry colname="col2">7 March 2012 </entry>
+			 		<entry colname="col3">Raya</entry>
+			 		<entry colname="col4">Added workflow diagrams</entry>
+			 	</row>
+			 	<row>
+			 		<entry colname="col1">Committee Approved Draft </entry>
+			 		<entry colname="col2">21 May 2012 </entry>
+			 		<entry colname="col3">Hackos (Chair) </entry>
+			 		<entry colname="col4">Adoption TC approved final draft</entry>
+			 	</row>			 	-->
+					</tbody>
+				</tgroup>
+			</table>
+		</section>
+	</conbody>
+</concept>
